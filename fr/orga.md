@@ -1,5 +1,4 @@
-# Mots/Machines #5
-
+# Mots/Machines #6
 <br>
 
 [Accueil](https://motsmachines.github.io/2023/fr) | [Programme](https://motsmachines.github.io/2023/fr/program) | [Organisation](https://motsmachines.github.io/2023/fr/orga) | [S'inscrire](https://motsmachines.github.io/2023/fr/registration) | [<img src="EN.png" width="20">](https://motsmachines.github.io/2023/en/orga)
