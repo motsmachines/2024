@@ -1,7 +1,7 @@
-# Mots/Machines #5
+# Mots/Machines #6
 <br>
 
-[Accueil](https://motsmachines.github.io/2023/fr) | [Programme](program) | [Organisation](orga) | [S'inscrire](registration) | [<img src="EN.png" width="20">](../en)
+[Accueil](https://motsmachines.github.io/2024/fr) | [Programme](program) | [Organisation](orga) | [S'inscrire](registration) | [<img src="EN.png" width="20">](../en)
 
 <br>
 
@@ -10,9 +10,9 @@
 ## Terminologie
 
 
-**Journée d’étude : 17 mars 2023**
+**Journée d’étude : 8 mars 2024**
 
-**Thématiques** : Gestion de la terminologie, IA et terminologie, liaison entre entités, recherche de mots-clés et de phrases-clés, rédaction technique, contextualisation et explication de la terminologie, visualisation, simplification lexicale, mesures de la difficulté des termes
+**Thématiques** : TODO
 
 ## Lieu et accès
 
@@ -37,6 +37,8 @@ Brest Cedex 3, France
 [Site Web 2021](https://motsmachines.github.io/2021)
 
 [Site Web 2022](https://motsmachines.github.io/2022)
+
+[Site Web 2023](https://motsmachines.github.io/2023)
 
 E-mail : [mots.machines@gmail.com](mailto:mots.machines@gmail.com)
 
