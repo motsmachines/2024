@@ -2,7 +2,7 @@
 
 <br>
 
-[Home](https://motsmachines.github.io/2024/en) | [Call for Papers](https://motsmachines.github.io/2024/en/cfp) | [Program](https://motsmachines.github.io/2024/en/program) | [Organizers](https://motsmachines.github.io/2024/en/orga) | [Registration](https://motsmachines.github.io/2024/en/registration) | [<img src="FR.png" width="20">](https://motsmachines.github.io/2024/fr/cfp)
+[Home]() | [Program](program) | [Organizers](orga) | [Registration](registration) | [<img src="FR.png" width="20">](../fr/orga)
 
 <br>
 
