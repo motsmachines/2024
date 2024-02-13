@@ -6,15 +6,7 @@
 
 <br>
 
-## Appel à communication : Science, IA, créativité et création
-
-Bientôt disponible...
-
 ### Calendrier
-
-**Soumission des résumés et des articles : TBD**
-
-**Notification :TBD**
 
 **Journée d’étude : 8 mars 2024**
 
@@ -29,23 +21,6 @@ Des informations sur les précédentes éditions de l'atelier en français sont 
 * [Mots/Machines #3 : Les machines ont-elles le sens de l'humour ?](https://motsmachines.github.io/2021/en/)
 * [Mots/Machines #2 : Traduction et sentiment : quel sens pour la machine ?](https://www.univ-brest.fr/www-live1-sl.univ-brest.fr/ViewPage.action?siteNodeId=29229&languageId=4)
 * [Mots/Machines #1 : Traduction, transcréation, transformation](https://www.univ-brest.fr/hcti/menu/Actualites/Archives/Mots-Machines)
-
-### Directives de soumission
-
-Les soumissions doivent être rédigées en anglais ou en français selon le style [CEURART](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/) à une colonne et être soumises sous forme de fichiers PDF via le système [EasyChair](https://easychair.org/conferences/?conf=motsmachines5).
-
-Les articles doivent être originaux, c'est-à-dire qu'ils ne doivent pas avoir été proposés et/ou publiés antérieurement dans une journée d'étude, un colloque ou une revue, à l'exception des résumés étendus. Les analyses documentaires, les articles de position et de démonstration, les articles sur les travaux en cours ou les résultats négatifs sont les bienvenus. Les traductions d'ouvrages déjà publiés peuvent être acceptées en tant que résumés étendus.
-
-Nous acceptons les types de soumissions suivants :
-1. *Résumés détaillés* de 500-1000 mots avec références bibliographiques. Les références bibliographiques sont exclues du décompte des mots. Les articles déjà publiés peuvent être acceptés en tant que résumés étendus (dans ce cas, veuillez fournir une référence à votre travail antérieur).
-2. *Articles standards* de 10 à 12 pages avec un nombre approprié de références.
-3. *Articles courts* de 5-6 pages comprenant des pages supplémentaires pour les références.
-
-### Liens
-
-Système de soumission : TODO: [https://easychair.org/conferences/?conf=motsmachines5](https://easychair.org/conferences/?conf=motsmachines5)
-
-Modèle de présentation : [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip)
 
 ### Liste de sujets (non exhaustive) :
 
