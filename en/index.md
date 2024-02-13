@@ -6,9 +6,9 @@
 
 <br> 
 
-![MM-terminologie](../mots-machines.jpg)
+![MM-terminologie](../mots-machines.png)
 
-## Terminology
+## Science, AI, Creativity and creation
 
 **Workshop : 8 March 2024**
 
