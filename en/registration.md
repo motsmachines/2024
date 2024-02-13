@@ -3,7 +3,7 @@
 <br>
 
 
-[Home]() | [Program](program) | [Organizers](orga) | [Registration](registration) | [<img src="FR.png" width="20">](../fr/orga)
+[Home](index) | [Program](program) | [Organizers](orga) | [Registration](registration) | [<img src="FR.png" width="20">](../fr/orga)
 
 <br>
 
