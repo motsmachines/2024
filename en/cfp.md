@@ -29,7 +29,7 @@ Mots/Machines #1: Traduction, transcréation, transformation https://www.univ-br
 
 ### List of topics (not exhaustive)
 
-* TODO
+Artificial Intelligence, Natural language processing, LLM, image, generative models, explicability, policy, precautions, trust, art, creation, humor, Man-machine interaction, conversation, automatic translation
 
 ### Invited Speakers
 
