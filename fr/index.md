@@ -12,7 +12,8 @@
 
 **Journée d’étude : 8 mars 2024**
 
-**Thématiques** : TODO
+**Thématiques** : Intelligence artificielle, traitement automatique du langage, 
+LLM, image, modèles génératifs, explicabilité, réglementation, précautions, confiance
 
 ## Lieu et accès
 
