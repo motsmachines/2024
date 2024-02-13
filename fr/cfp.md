@@ -1,4 +1,4 @@
-# Mots/Machines #5
+# Mots/Machines #6
 
 <br>
 
@@ -33,10 +33,6 @@ Des informations sur les précédentes éditions de l'atelier en français sont 
 * Helen McCombie, BTU UBO
 * Florence Dupin de Saint-Cyr -- Bannay, IRIT Université de Toulouse - Humour and belief revision
 * Juliette Le Berrigot, étudiante master Rédaction/Traduction UBO - Traduction des mots-valises avec les LLMs
-
-
-## Publication
-Les résumés détaillés et les présentations en format PDF seront publiés sur le site web. Les articles sélectionnés seront considérés pour être publiés dans les Actes.
 
 ### Lieu et accès
 
