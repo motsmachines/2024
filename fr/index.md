@@ -14,6 +14,8 @@
 
 **Thématiques** : Intelligence artificielle, traitement automatique du langage, 
 LLM, image, modèles génératifs, explicabilité, réglementation, précautions, confiance
+art, création, humour, Interaction Homme Machine, conversation, traduction automatique
+
 
 ## Lieu et accès
 
