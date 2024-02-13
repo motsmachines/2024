@@ -5,7 +5,7 @@
 
 <br>
 
-![MM-terminologie](../mots-machines.jpg)
+![MM-science, IA, créativité et création](../mots-machines.png)
 
 ## Terminologie
 
