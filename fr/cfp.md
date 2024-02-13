@@ -12,7 +12,16 @@
 
 ### Contexte
 
-TODO
+Le déploiement des modèles de l’IA de l’état de l’art, tels que GPT-4, ChatGPT, LLama, Dall-E, a posé beaucoup de questions concernant la créativité. Malgré les progrès considérables réalisés dans le domaine des grands modèles de langage (LLM), le traitement automatique du langage créatif, y compris les textes humoristiques et poétiques, constitue un défi permanent pour les systèmes d'intelligence artificielle et de traitement du langage naturel. 
+Bien que certaines organisations commerciales aient mené des recherches sur la détection et la génération d'humour, le déploiement de la production d'humour généré dans des agents conversationnels est risqué car ces agents pourraient révéler des biais indésirables de stéréotypage qui propagent des stéréotypes négatifs impliquant le genre, la race, la religion et d'autres constructions sociales. En outre, l'humour est souvent lié à des tabous sociaux ; selon la théorie du soulagement par l'humour, l'effet comique est obtenu en atténuant la tension. Pour surmonter ce problème, il est essentiel de comprendre le sentiment potentiel de l'interlocuteur.
+
+La créativité, dont l’humour fait partie, pourrait être utile pour les agents conversationnels, la vulgarisation scientifique et la détection de fake news. Elle pourrait également servir d’outil de persuasion.
+
+L'atelier « Mots/Machines #6 : Science, IA, créativité et création » est organisé par le laboratoire de recherche HCTI, le master de traduction et rédaction technique de l'UBO, et l’action SimpleText du CNRS GDR MADICS.
+
+Ce colloque se veut un forum d’échange sur les aspects scientifiques et pratiques de l’IA et de la créativité. 
+Mots/Machines s’adresse à la fois aux étudiant.es et aux chercheur.es ; chacun peut y présenter l’avancée de ses recherches et de débattre des enjeux de ce domaine influent et en évolution rapide. 
+
 
 Des informations sur les précédentes éditions de l'atelier en français sont disponibles ici :
 
