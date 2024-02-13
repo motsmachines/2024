@@ -10,15 +10,16 @@
 
 ### Program committee
 - Liana Ermakova, HCTI, UBO
-- Élise Mathurin, HCTI, UBO
-- Michele Bolduc, HCTI, UBO
-- Caroline Comacle, translator, UBO
-- Radia Hanachi, HCTI, UBS
+- Caroline Comacle, traductrice, UBO
+- Radia Hannachi, HCTI, UBS
 - Mohamed Saki, HCTI, UBO
+- Michele Bolduc, HCTI, UBO
 
 ### Organizing committee
 - Liana Ermakova, HCTI, UBO
-- Élise Mathurin, HCTI, UBO
+- Benjamin Vendeville, HCTI, UBO
+- Caroline Comacle, traductrice, UBO
+- Radia Hannachi, HCTI, UBS
+- Mohamed Saki, HCTI, UBO
+- Emmanuelle Bourge, HCTI, UBO
 - Michele Bolduc, HCTI, UBO
-- Caroline Comacle, translator, UBO
-- Radia Hanachi, HCTI, UBS
