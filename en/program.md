@@ -2,7 +2,8 @@
 
 <br>
 
-[Home](https://motsmachines.github.io/2023/en) | [Program](https://motsmachines.github.io/2023/en/program) | [Organizers](https://motsmachines.github.io/2023/en/orga) | [Registration](https://motsmachines.github.io/2023/en/registration) | [<img src="FR.png" width="20">](https://motsmachines.github.io/2023/fr/program)
+
+[Home]() | [Program](program) | [Organizers](orga) | [Registration](registration) | [<img src="FR.png" width="20">](../fr/orga)
 
 <br>
 
