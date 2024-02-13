@@ -12,7 +12,8 @@
 
 **Workshop : 8 March 2024**
 
-**List of topics** : Artificial Intelligence, Natural language processing, LLM, image, generative models, explicability, policy, precautions, trust
+**List of topics** : 
+Artificial Intelligence, Natural language processing, LLM, image, generative models, explicability, policy, precautions, trust, art, creation, humor, Man-machine interaction, conversation, automatic translation
 
 ## Venue
 The workshop will be held at the [University of Western Brittany, Faculty of Humanities](https://www.univ-brest.fr/UFR-Lettres-et-Sciences-Humaines):
