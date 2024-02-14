@@ -1,4 +1,9 @@
 # Mots/Machines #6
+
+title: "Very cool page"
+subtitle: "You're going to love this."
+permalink: /cool
+
 <br>
 
 [Accueil](https://motsmachines.github.io/2024/fr) | [Programme](program) | [Organisation](orga) | [S'inscrire](registration) | [<img src="EN.png" width="20">](../en)
