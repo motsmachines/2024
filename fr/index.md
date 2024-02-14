@@ -1,4 +1,3 @@
-# Mots/Machines #6
 ## Science, IA, créativité, Création
 <br>
 
