@@ -1,4 +1,5 @@
 # Mots/Machines #6
+## Science, IA, créativité, Création
 <br>
 
 [Accueil](https://motsmachines.github.io/2024/fr) | [Programme](program) | [Organisation](orga) | [S'inscrire](registration) | [<img src="EN.png" width="20">](../en)
