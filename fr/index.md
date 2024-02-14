@@ -1,9 +1,3 @@
----
-title: "Very cool page"
-subtitle: "You're going to love this."
-permalink: /cool
----
-
 # Mots/Machines #6
 <br>
 
