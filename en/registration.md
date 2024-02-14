@@ -12,7 +12,7 @@
 
 ### Physical attendance registration: 
 
-Registration is open until March 13: [https://forms.gle/hX9oqBuHbYotmp3Z7](https://forms.gle/hX9oqBuHbYotmp3Z7)
+Registration is open until March 4th: https://www.eventbrite.fr/e/billets-motsmachines-6-837582410537
 
 ### ONLINE participation registration:
 
