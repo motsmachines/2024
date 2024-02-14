@@ -8,10 +8,9 @@
 
 ## L'inscription est obligatoire :
 
-### Inscription participation sur place - date limite le 13 Mars:
+### Inscription participation sur place - date limite le 4 Mars:
 
-[https://forms.gle/hX9oqBuHbYotmp3Z7](https://forms.gle/hX9oqBuHbYotmp3Z7)
-
+https://www.eventbrite.fr/e/billets-motsmachines-6-837582410537
 
 ### Inscription participation EN LIGNE :
 
