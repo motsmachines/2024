@@ -39,16 +39,3 @@
         aaaaaa
     </details>
 - 17h50 Clôture
-
-<style>
-details {
-  display: inline;
-}
-summary {
-  display: inline;
-}
-</style>
-$(document).on('click', '.nav-tabs li', function() {
-  $('.nav-tabs li').removeClass('active');
-  $(this).addClass('active');
-});
