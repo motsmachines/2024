@@ -12,7 +12,11 @@
 - 8h45 Accueil
 - 9h00 Ouverture
 - 9h10 Juliette Le Berrigot, étudiante master Rédaction/Traduction UBO
-          <br><details><summary> détails </summary>aaaaaa</details>
+          <br><details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
 - 9h30 Jaap Kamps, faculty of humanities of University of Amsterdam
           <br><details><summary> détails </summary>aaaaaa</details>
 - 10h20 pause-café
@@ -34,8 +38,3 @@
           <br><details><summary> détails </summary>aaaaaa</details>
 - 17h50 Clôture
 
-<style>
-.marge{
-          margin-left&#58; 5em;
-}
-</style>
