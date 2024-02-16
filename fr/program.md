@@ -30,3 +30,21 @@
 <br>
 This is how you dropdown.
 </details>
+
+<style>
+  blockquote {
+  display: inline;
+} 
+ 
+details {
+  display: inline;
+}
+
+summary {
+  display: inline;
+}
+
+details[open] summary {
+  display: none;
+}
+</style>
