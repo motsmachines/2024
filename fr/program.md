@@ -11,12 +11,19 @@
 
 <ul>
     <li>8h45 Accueil</li>
+    
     <li>9h00 Ouverture</li>
+    
     <li>9h10 Juliette Le Berrigot, étudiante master Rédaction/Traduction UBO<details><summary> détails </summary>aaaaaa</details></li>
+    
     <li>9h30 Jaap Kamps, faculty of humanities of University of Amsterdam</li>
+    
     <li>10h20 pause-café</li>
+    
     <li>10h50 Christophe Servan - Reflexions après l'impact des Large Language Models et l'arrivée des Large Agent Model : vers un renouveau des systèmes multi-agents en IA ?</li>
+    
     <li>11h40 Helen McCombie</li>
+    
     <li>12h00 Lunch</li>
     <li>14h00 Adam Jatowt Estimating - Temporal Validity of Text</li>
     <li>14h50 Riwal Lefort - L'Intelligence Artificielle dans le domaine bancassurance</li>
@@ -26,6 +33,7 @@
     <li>17h30 Victor (online)</li>
     <li>17h50 Clôture</li>
 </ul>
+
 <details><summary> détails </summary>aaaaaa</details>
 
 <style>
