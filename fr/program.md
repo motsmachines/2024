@@ -23,15 +23,17 @@
         <details style="margin-left:50px"><summary> détails </summary>aaaaaa</details> </li>
 <li>12h00 Lunch</li>
 <li>14h00 Adam Jatowt Estimating - Temporal Validity of Text
-        <details style="margin-left:50px"><summary> détails </summary>aaaaaa</details> </li>
+        <details style="margin-left:50px"><summary> détails </summary>
+                Résumé:
+        Il est important de savoir si les informations sont encore valables ou non pour diverses applications en aval, notamment les systèmes de recommandation, la recherche d'informations et le suivi de l'état de l'utilisateur sur les microblogs et via les conversations des chatbots. Il est également utile de comprendre en profondeur l'histoire en suivant les informations implicites sur la durée des activités des protagonistes et des événements impliqués. Cependant, ce type d'inférence est encore difficile pour les machines car il nécessite généralement des connaissances et des raisonnements temporels. Nous proposons et étudions une série de nouvelles tâches liées au raisonnement par le bon sens temporel, telles que l'estimation de la validité temporelle, la réévaluation de la validité temporelle et la prédiction du changement de validité temporelle d'un texte d'entrée en fonction d'un contexte de suivi. En substance, ces tâches nécessitent de déterminer si les actions exprimées dans le texte sont toujours en cours ou ont été achevées, et donc si la description de leur contenu reste valide ou est plutôt devenue obsolète, soit en raison du temps écoulé, soit en raison de l'apport d'un contexte supplémentaire. En outre, nous discutons également de plusieurs nouveaux ensembles de données que nous avons construits pour tester les LLMs et les modèles de NLP en général en ce qui concerne l'estimation de la validité temporelle et le raisonnement.</details> </li>
 <li>14h50 Riwal Lefort - L'Intelligence Artificielle dans le domaine bancassurance
         <details style="margin-left:50px"><summary> détails </summary>aaaaaa</details> </li>
 <li>15h40 pause-café</li>
-<li>16h10 Jean-Charles MEUNIER (Institut des Sciences Humaines, Université Polytechnique Hauts-de-France) <li>limites de la traduction automatique dans la traduction des textes poétiques</li>
+<li>16h10 Jean-Charles MEUNIER (Institut des Sciences Humaines, Université Polytechnique Hauts-de-France) - limites de la traduction automatique dans la traduction des textes poétiques
         <details style="margin-left:50px"><summary> détails </summary>aaaaaa</details> </li>
-<li>17h00 Michel Delarche (online)</li>
+<li>17h00 Michel Delarche (online)
         <details style="margin-left:50px"><summary> détails </summary>aaaaaa</details> </li>
-<li>17h30 Victor (online)17h50 Clôture</li>
+<li>17h30 Victor (online)17h50 Clôture
         <details style="margin-left:50px"><summary> détails </summary>aaaaaa</details> </li>
 </ul>
 
