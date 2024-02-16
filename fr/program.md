@@ -11,18 +11,18 @@
 
 - 8h45 Accueil
 - 9h00 Ouverture
-- <details> <summary> 9h10 Juliette Le Berrigot, étudiante master Rédaction/Traduction UBO </summary>aaaaaa </details>
-- 9h30 Jaap Kamps, faculty of humanities of University of Amsterdam <details> <summary> details </summary>aaaaaa </details>
+- 9h10 Juliette Le Berrigot, étudiante master Rédaction/Traduction UBO  <details> <summary> détails </summary>aaaaaa </details>
+- 9h30 Jaap Kamps, faculty of humanities of University of Amsterdam <details> <summary> détails </summary>aaaaaa </details>
 - 10h20 pause-café
-- <details> <summary> 10h50 Christophe Servan (Qwant) - Reflexions après l'impact des Large Language Models et l'arrivée des Large Agent Model : vers un renouveau des systèmes multi-agents en IA ? </summary>aaaaaa </details>
-- <details> <summary> 11h40 Helen McCombie </summary>aaaaaa </details>
+- 10h50 Christophe Servan - Reflexions après l'impact des Large Language Models et l'arrivée des Large Agent Model : vers un renouveau des systèmes multi-agents en IA ? <details> <summary> détails </summary>aaaaaa </details>
+- 11h40 Helen McCombie <details> <summary> détails </summary>aaaaaa </details>
 - 12h00 Lunch
-- <details> <summary> 14h00 Adam Jatowt Estimating - Temporal Validity of Text </summary>aaaaaa </details>
-- <details> <summary> 14h50 Riwal Lefort - L'Intelligence Artificielle dans le domaine bancassurance </summary>aaaaaa </details>
+- 14h00 Adam Jatowt Estimating - Temporal Validity of Text <details> <summary> détails </summary>aaaaaa </details>
+- 14h50 Riwal Lefort - L'Intelligence Artificielle dans le domaine bancassurance <details> <summary> détails </summary>aaaaaa </details>
 - 15h40 pause-café
-- <details> <summary> 16h10 Jean-Charles MEUNIER (Institut des Sciences Humaines, Université Polytechnique Hauts-de-France) - limites de la traduction automatique dans la traduction des textes poétiques </summary>aaaaaa </details>
-- <details> <summary> 17h00 Michel Delarche (online) </summary>aaaaaa </details>
-- <details> <summary> 17h30 Victor (online) </summary>aaaaaa </details>
+- 16h10 Jean-Charles MEUNIER (Institut des Sciences Humaines, Université Polytechnique Hauts-de-France) - limites de la traduction automatique dans la traduction des textes poétiques <details> <summary> détails </summary>aaaaaa </details>
+- 17h00 Michel Delarche (online) <details> <summary> détails </summary>aaaaaa </details>
+- 17h30 Victor (online) <details> <summary> détails </summary>aaaaaa </details>
 - 17h50 Clôture
 - 
 <details>
