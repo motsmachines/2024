@@ -11,7 +11,7 @@
 
 - 8h45 Accueil
 - 9h00 Ouverture
-- 9h10 Juliette Le Berrigot, étudiante master Rédaction/Traduction UBO <details><summary> détails </summary>
+- 9h10 Juliette Le Berrigot, étudiante master Rédaction/Traduction UBO <details>
         aaaaaa
     </details>
 - 9h30 Jaap Kamps, faculty of humanities of University of Amsterdam <details>détails
