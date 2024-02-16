@@ -12,13 +12,9 @@
 8h45 Accueil
 9h00 Ouverture
 9h10 Juliette Le Berrigot, étudiante master Rédaction/Traduction UBO<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-</details>
-
+<details><summary> détails </summary>aaaaaa</details>
 9h30 Jaap Kamps, faculty of humanities of University of Amsterdam
-          <br><details><summary> détails </summary>aaaaaa</details>
+<details><summary> détails </summary>aaaaaa</details>
 10h20 pause-café
 10h50 Christophe Servan - Reflexions après l'impact des Large Language Models et l'arrivée des Large Agent Model : vers un renouveau des systèmes multi-agents en IA ?
           <br><details><summary> détails </summary>aaaaaa</details>
