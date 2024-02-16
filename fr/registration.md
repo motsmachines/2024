@@ -10,10 +10,10 @@
 
 ### Inscription participation sur place - date limite le 4 Mars:
 
-https://www.eventbrite.fr/e/billets-motsmachines-6-837582410537
+https://www.eventbrite.fr/e/billets-motsmachines-6-presentiel-841595152757
 
 ### Inscription participation EN LIGNE :
 
-[https://forms.gle/gbXHzFTN5R9K2Hct6](https://forms.gle/gbXHzFTN5R9K2Hct6)
+https://www.eventbrite.fr/e/billets-motsmachines-6-presentiel-841595152757
 
 Le lien Zoom pour la participation en ligne sera accessible après l'inscription
