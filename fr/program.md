@@ -40,6 +40,9 @@
 - 17h50 Clôture
 
 <style>
+.participant {
+  display: inline;
+} 
 details {
   display: inline;
 }
