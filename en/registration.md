@@ -12,8 +12,8 @@
 
 ### Physical attendance registration: 
 
-Registration is open until March 4th: https://www.eventbrite.fr/e/billets-motsmachines-6-837582410537
+Registration is open until March 4th: https://www.eventbrite.fr/e/billets-motsmachines-6-presentiel-841595152757
 
 ### ONLINE participation registration:
 
-The Zoom link will be available for registered participants: [https://forms.gle/gbXHzFTN5R9K2Hct6](https://forms.gle/gbXHzFTN5R9K2Hct6)
+Registration is open until March 4th: https://www.eventbrite.fr/e/billets-motsmachines-6-distanciel-837582410537
