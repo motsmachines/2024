@@ -11,13 +11,12 @@
 
 - 8h45 Accueil
 - 9h00 Ouverture
-- 9h10 Juliette Le Berrigot, étudiante master Rédaction/Traduction UBO <details>
-        aaaaaa
-    </details>
-- 9h30 Jaap Kamps, faculty of humanities of University of Amsterdam
-          <details><summary> détails </summary>aaaaaa</details>
+- <div class="participant">9h10 Juliette Le Berrigot, étudiante master Rédaction/Traduction UBO
+          <details><summary> détails </summary>aaaaaa</details> <\div>
+- <div class="participant">9h30 Jaap Kamps, faculty of humanities of University of Amsterdam
+          <details><summary> détails </summary>aaaaaa</details> <\div>
 - 10h20 pause-café
-- 10h50 Christophe Servan - Reflexions après l'impact des Large Language Models et l'arrivée des Large Agent Model : vers un renouveau des systèmes multi-agents en IA ?<details><summary> détails </summary>aaaaaa</details>
+- <div class="participant">10h50 Christophe Servan - Reflexions après l'impact des Large Language Models et l'arrivée des Large Agent Model : vers un renouveau des systèmes multi-agents en IA ?<details><summary> détails </summary>aaaaaa</details> <\div>
 - 11h40 Helen McCombie <details><summary> détails </summary>
         aaaaaa
     </details>
@@ -44,11 +43,9 @@
 details {
   display: inline;
 }
-
 summary {
   display: inline;
 }
-
 details[open] summary {
   display: none;
 }
