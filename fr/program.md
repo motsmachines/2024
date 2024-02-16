@@ -30,3 +30,12 @@
 <br>
 This is how you dropdown.
 </details>
+
+<style>
+details {
+  display: inline;
+}
+summary {
+  display: inline;
+}
+</style>
