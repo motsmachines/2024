@@ -39,3 +39,17 @@
         aaaaaa
     </details>
 - 17h50 Clôture
+
+<style>
+details {
+  display: inline;
+}
+
+summary {
+  display: inline;
+}
+
+details[open] summary {
+  display: none;
+}
+</style> 
