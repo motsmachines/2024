@@ -12,7 +12,7 @@
 - 8h45 Accueil
 - 9h00 Ouverture
 - 9h10 Juliette Le Berrigot, étudiante master Rédaction/Traduction UBO
-          <br><details>
+<details>
 <summary>How do I dropdown?</summary>
 <br>
 This is how you dropdown.
