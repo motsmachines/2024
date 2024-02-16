@@ -11,8 +11,8 @@
 
 - 8h45 Accueil
 - 9h00 Ouverture
-- <div class="participant">9h10 Juliette Le Berrigot, étudiante master Rédaction/Traduction UBO
-          <details><summary> détails </summary>aaaaaa</details> <\div>
+- 9h10 Juliette Le Berrigot, étudiante master Rédaction/Traduction UBO
+          <br><details><summary> détails </summary>aaaaaa</details>
 - <div class="participant">9h30 Jaap Kamps, faculty of humanities of University of Amsterdam
           <details><summary> détails </summary>aaaaaa</details> <\div>
 - 10h20 pause-café
@@ -39,17 +39,3 @@
     </details>
 - 17h50 Clôture
 
-<style>
-.participant {
-  display: inline;
-} 
-details {
-  display: inline;
-}
-summary {
-  display: inline;
-}
-details[open] summary {
-  display: none;
-}
-</style> 
