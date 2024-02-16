@@ -26,3 +26,15 @@
     <li>17h50 Clôture</li>
 </ul>
 <details><summary> détails </summary>aaaaaa</details>
+
+<style>
+li {
+  display: inline;
+}
+details {
+  display: inline;
+}
+summary {
+  display: inline;
+}
+</style>
