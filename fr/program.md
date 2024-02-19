@@ -42,7 +42,6 @@ Helen McCombie works at the university translation bureau where she specialises 
         </details> </li>
         
 <li>14h50 Riwal Lefort - L'Intelligence Artificielle dans le domaine bancassurance
-        
         <details style="margin-left:50px"><summary> détails </summary>
                 <b>Résumé:</b> <br> Du traitement d'image au traitement des données textuelles, en passant par l'analyse des libellés de transactions bancaires, nous présenterons un grand nombre de cas d'usage de la bancassurance. Nous présenterons les spécificités et le déroulé d'un projet d'IA dans ce domaine très contraint par la réglementation. Nous évoquerons également comment se passe l'adoption des IA génératives.
                 <br><br><b>Biographie :</b><br>
