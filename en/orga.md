@@ -1,4 +1,4 @@
-# Words/Machines #6
+# Mots/Machines #6
 ## Science, AI, Creativity et creation
 
 <br>
