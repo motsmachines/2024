@@ -16,9 +16,7 @@
 <li>9h30 Jaap Kamps, faculty of humanities of University of Amsterdam</li>
 <li>10h20 pause-café</li>
 <li>10h50 Christophe Servan - Reflexions après l'impact des Large Language Models et l'arrivée des Large Agent Model : vers un renouveau des systèmes multi-agents en IA ?</li>
-<li>11h40 Helen McCombie, Mon partenaire virtuel pour l'écriture de chansons
-
-        
+<li>11h40 Helen McCombie, Mon partenaire virtuel pour l'écriture de chansons        
         <details style="margin-left:50px"><summary> détails </summary>
                 <b>Résumé:</b> <br> J'explore certaines façons dont les outils numériques peuvent créer, assister et inspirer l'écriture de paroles de chansons en présentant quelques exemples d'outils de traitement du langage spécifiques à cette activité et quelques expériences utilisant des LLMs formés de façon générique.
 
