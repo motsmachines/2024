@@ -13,10 +13,10 @@
 <ul>
 <li>8h45 Reception</li>
 <li>9h00 Opening</li>
-<li>9h10 Juliette Le Berrigot, Master student writing/translation UBO
-<li>9h30 Jaap Kamps, faculty of humanities of University of Amsterdam
-<li>10h20 Coffee Break
-<li>10h50 Christophe Servan - Considerations after the impact of Large Language Models and the arrival of Large Agent Models: towards a revival of multi-agent systems in AI?
+<li>9h10 Juliette Le Berrigot, Master student writing/translation UBO</li>
+<li>9h30 Jaap Kamps, faculty of humanities of University of Amsterdam</li>
+<li>10h20 Coffee Break</li>
+<li>10h50 Christophe Servan - Considerations after the impact of Large Language Models and the arrival of Large Agent Models: towards a revival of multi-agent systems in AI?</li>
 <li>11h40 Helen McCombie        
         <details style="margin-left:50px"><summary> Details </summary>
                 <b>Abstract:</b> <br> I explore some ways digital tools can create, assist and inspire song lyric writing by presenting some examples of language treatment tools specific to this activity and some experiments using generically-trained LLMs.
