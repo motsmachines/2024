@@ -12,10 +12,10 @@
 <ul>
 <li>8h45 Accueil</li>
 <li>9h00 Ouverture</li>
-<li>9h10 Juliette Le Berrigot, étudiante master Rédaction/Traduction UBO
-<li>9h30 Jaap Kamps, faculty of humanities of University of Amsterdam
-<li>10h20 pause-café
-<li>10h50 Christophe Servan - Reflexions après l'impact des Large Language Models et l'arrivée des Large Agent Model : vers un renouveau des systèmes multi-agents en IA ?
+<li>9h10 Juliette Le Berrigot, étudiante master Rédaction/Traduction UBO</li>
+<li>9h30 Jaap Kamps, faculty of humanities of University of Amsterdam</li>
+<li>10h20 pause-café</li>
+<li>10h50 Christophe Servan - Reflexions après l'impact des Large Language Models et l'arrivée des Large Agent Model : vers un renouveau des systèmes multi-agents en IA ?</li>
 <li>11h40 Helen McCombie, Mon partenaire virtuel pour l'écriture de chansons
 
         
@@ -52,7 +52,7 @@ Après 10 ans de recherche académique en Machine Learning pour la vision par or
 </details> </li>
 
 <li>15h40 pause-café</li>
-<li>16h10 Jean-Charles MEUNIER (Institut des Sciences Humaines, Université Polytechnique Hauts-de-France) - limites de la traduction automatique dans la traduction des textes poétiques
-<li>17h00 Michel Delarche (online)
-<li>17h30 Victor (online)17h50 Clôture
+<li>16h10 Jean-Charles MEUNIER (Institut des Sciences Humaines, Université Polytechnique Hauts-de-France) - limites de la traduction automatique dans la traduction des textes poétiques</li>
+<li>17h00 Michel Delarche (online)</li>
+<li>17h30 Victor (online)17h50 Clôture</li>
 </ul>
