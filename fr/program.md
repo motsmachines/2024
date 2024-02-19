@@ -19,8 +19,23 @@
 <li>10h20 pause-café
 <li>10h50 Christophe Servan - Reflexions après l'impact des Large Language Models et l'arrivée des Large Agent Model : vers un renouveau des systèmes multi-agents en IA ?
         <details style="margin-left:50px"><summary> détails </summary>aaaaaa</details> </li>
-<li>11h40 Helen McCombie
-        <details style="margin-left:50px"><summary> détails </summary>aaaaaa</details> </li>
+<li>11h40 Helen McCombie, Mon partenaire virtuel pour l'écriture de chansons
+
+        
+        <details style="margin-left:50px"><summary> détails </summary>
+                <b>Résumé:</b> <br> J'explore certaines façons dont les outils numériques peuvent créer, assister et inspirer l'écriture de paroles de chansons en présentant quelques exemples d'outils de traitement du langage spécifiques à cette activité et quelques expériences utilisant des LLMs formés de façon générique.
+
+De nombreux styles de chansons imposent des contraintes au texte lyrique nécessaire, notamment en termes de choix des mots, y compris la sélection de rimes adaptées au contexte du sujet, et le respect des schémas d'accentuation dictés par la musique ou les lignes de texte existantes. 
+Bien que les outils numériques puissent contribuer à ces aspects, la rédaction en gros d'ensembles complets de paroles par des outils basés sur le LLM crée un paradoxe. La nature générique des réponses tend à produire des paroles dépourvues des spécificités qui, autrement, ajouteraient de la relativité, de la plausibilité et de la mémorabilité. En utilisant Chat GPT, j'ai testé des requêtes qui pourraient canaliser les résultats de LLM vers quelque chose de moins générique.
+
+Les auteurs-compositeurs accueillent les outils d'IA avec un enthousiasme variable. Je fais un tour d'horizon des impressions recueillies au sein d'une communauté d'auteurs-compositeurs en ligne. 
+
+Enfin, j'examine quelques exemples d'applications interactives et commerciales.
+                <br><br><b>Biographie :</b><br>
+Helen McCombie works at the university translation bureau where she specialises in scientific text revision.  She is also an amateur musician.
+</details> </li>
+
+
 <li>12h00 Lunch</li>
 <li>14h00 Adam Jatowt Estimating - Temporal Validity of Text
         <details style="margin-left:50px"><summary> détails </summary>
