@@ -13,7 +13,7 @@
 <li>8h45 Accueil</li>
 <li>9h00 Ouverture</li>
 <li>9h10 Juliette Le Berrigot, <i>Etudiante master Rédaction/Traduction UBO</i></li>
-<li>9h30 Jaap Kamps, <i>faculty of humanities of University of Amsterdam</i> - <b>Le Rôle de l’IA et de la Créativité dans la Recherche Scientifique</b>
+<li>9h30 Jaap Kamps, *faculty of humanities of University of Amsterdam* - **Le Rôle de l’IA et de la Créativité dans la Recherche Scientifique**
         <details style="margin-left:50px"><summary> détails </summary>
                 <b>Résumé:</b> <br> La créativité et la création sont généralement considérées comme l’opposé de la rigueur scientifique. Le contexte de la justification scientifique se caractérise par des règles très strictes, guidées par une logique formelle et une méthodologie rigoureuse. Le contexte de la découverte est cependant beaucoup plus libre : selon l'éminent philosophe Karl Popper, il est préférable de le laisser à la psychologie. Alors que la logique dominait l’Intelligence Artificielle (IA) classique, les progrès révolutionnaires récents concernent les modèles d’IA qui excellent dans la génération, la création et la créativité. Quels sont les rôles de ces modèles d’IA dans la recherche scientifique ? Quelle force et quels enjeux ont ces modèles dans ce contexte, connus pour « halluciner » et présenter des biais de confirmation ? Alors que les modèles antérieurs se concentraient sur le contexte de la justification scientifique, ces modèles peuvent-ils jouer un rôle dans le contexte de la découverte scientifique ? Et comment cela change-t-il la répartition des rôles et des tâches entre le chercheur humain et l’assistant de modèles d’IA ?
                 <br><br><b>Biographie :</b><br>
@@ -22,8 +22,8 @@ Dr. Kamps a obtenu un doctorat en intelligence artificielle « logique » à l�
 Il a publié plus de 450 articles dans toutes les grandes conférences et revues, consultables sur http://e.humanities.uva.nl/ ; https://scholar.google.com/citations?user=bWlQ2uEAAAAJ ; http://dl.acm.org/author_page.cfm?id=81100034443 ; ou d'autres référentiels.
 </details> </li>
 <li>10h20 pause-café</li>
-<li>10h50 Christophe Servan - <b>Reflexions après l'impact des Large Language Models et l'arrivée des Large Agent Model : vers un renouveau des systèmes multi-agents en IA ?</b></b></li>
-<li>11h40 Helen McCombie, <i>Bureau de Traduction de l’Université</i>  - <b>Mon partenaire virtuel pour l'écriture de chansons</b>
+<li>10h50 Christophe Servan - <strong>Reflexions après l'impact des Large Language Models et l'arrivée des Large Agent Model : vers un renouveau des systèmes multi-agents en IA ?</strong></li>
+<li>11h40 Helen McCombie, <em>Bureau de Traduction de l’Université</em>  - <b>Mon partenaire virtuel pour l'écriture de chansons</b>
         <details style="margin-left:50px"><summary> détails </summary>
                 <b>Résumé:</b> <br> J'explore certaines façons dont les outils numériques peuvent créer, assister et inspirer l'écriture de paroles de chansons en présentant quelques exemples d'outils de traitement du langage spécifiques à cette activité et quelques expériences utilisant des LLMs formés de façon générique.
 
