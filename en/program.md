@@ -38,7 +38,7 @@ Finally, I take look at a few examples of interactive and commercial application
 </Details> </li>
 
 <li>12h00 Lunch</li>
-<li>14h00 Adam Jatowt Estimating, University of Innsbruck, Austria - Temporal Validity of Text
+<li>14h00 Adam Jatowt Estimating, <i>University of Innsbruck, Austria</i> - <b>Temporal Validity of Text</b>
         <Details style="margin-left:50px"><summary> Details </summary>
                 <b>Abstract:</b><br>
         It is important to learn whether information is still valid or not for various downstream applications including recommender systems, information retrieval, and user state tracking on microblogs and via chatbot conversations. It is also beneficial to deeply understand the story by tracking implicit information about the durations of protagonists' activities and involved events. However, this kind of inference is still difficult for machines as it usually requires temporal commonsense knowledge and reasoning. We propose and investigate a series of novel tasks related to temporal commonsense reasoning such as temporal validity estimation, temporal validity reassessment, and temporal validity change prediction of an input text given some follow-up context. In essence, these tasks require inference whether actions expressed in text are still ongoing or have been completed, hence whether the describing them content remains valid, or has rather become obsolete, either due to the elapsed time or based on the provision of additional context. Additionally, we also discuss several novel datasets that we have constructed for probing LLMs and NLP models in general when it comes to temporal validity estimation and reasoning.
