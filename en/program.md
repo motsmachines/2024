@@ -14,7 +14,7 @@
 <li>8h45 Reception</li>
 <li>9h00 Opening</li>
 <li>9h10 Juliette Le Berrigot, Master student writing/translation UBO</li>
-<li>9h30 Jaap Kamps, faculty of humanities of University of Amsterdam        
+<li>9h30 Jaap Kamps, faculty of humanities of University of Amsterdam - The Role of AI and Creativity in Scientific Inquiry   
         <Details style="margin-left:50px"><summary> Details </summary>
                 <b>Résumé:</b> <br> Creativity and creation are mostly viewed as the opposite of scientific rigor in science.   The context of scientific justification is characterized by very strict rules, guided by formal logic and rigorous methodology.  The context of discovery, however, has far more freedom: it is even best left to psychology according to eminent philosopher Karl Popper.  Whereas logic dominated classical Artificial Intelligence (AI), recent revolutionary progress is with AI models that excel at generation, creation, and creativity.   What is the roles of these AI models in scientific inquiry?   What strength and what issues do these models have in this context, as they are known to “hallucinate” and exhibit confirmation bias?   Whereas earlier models focused on the context of scientific justification, can these models play a role in the context of scientific discovery?   And how does this change the role and task division between the human researcher and the AI models assistant?
                 <br><br><b>Biographie :</b><br>
@@ -24,7 +24,7 @@ He has published over 450 papers in all major conferences and journals, which ca
 </Details> </li>
 <li>10h20 Coffee Break</li>
 <li>10h50 Christophe Servan - Considerations after the impact of Large Language Models and the arrival of Large Agent Models: towards a revival of multi-agent systems in AI?</li>
-<li>11h40 Helen McCombie        
+<li>11h40 Helen McCombie, University Translation Bureau - My digital songwriting partner      
         <Details style="margin-left:50px"><summary> Details </summary>
                 <b>Abstract:</b> <br> I explore some ways digital tools can create, assist and inspire song lyric writing by presenting some examples of language treatment tools specific to this activity and some experiments using generically-trained LLMs.
 
@@ -38,7 +38,7 @@ Finally, I take look at a few examples of interactive and commercial application
 </Details> </li>
 
 <li>12h00 Lunch</li>
-<li>14h00 Adam Jatowt Estimating - Temporal Validity of Text
+<li>14h00 Adam Jatowt Estimating, University of Innsbruck, Austria - Temporal Validity of Text
         <Details style="margin-left:50px"><summary> Details </summary>
                 <b>Abstract:</b><br>
         It is important to learn whether information is still valid or not for various downstream applications including recommender systems, information retrieval, and user state tracking on microblogs and via chatbot conversations. It is also beneficial to deeply understand the story by tracking implicit information about the durations of protagonists' activities and involved events. However, this kind of inference is still difficult for machines as it usually requires temporal commonsense knowledge and reasoning. We propose and investigate a series of novel tasks related to temporal commonsense reasoning such as temporal validity estimation, temporal validity reassessment, and temporal validity change prediction of an input text given some follow-up context. In essence, these tasks require inference whether actions expressed in text are still ongoing or have been completed, hence whether the describing them content remains valid, or has rather become obsolete, either due to the elapsed time or based on the provision of additional context. Additionally, we also discuss several novel datasets that we have constructed for probing LLMs and NLP models in general when it comes to temporal validity estimation and reasoning.
@@ -46,7 +46,7 @@ Finally, I take look at a few examples of interactive and commercial application
                 Adam Jatowt is a Full Professor at the Department of Computer Science of the University of Innsbruck, Austria. He also serves as a Deputy Head of the Digital Science Center and Deputy Head of the Research Center Digital Humanities at the University of Innsbruck. Adam received his Ph.D. degree in Information Science & Technology from the University of Tokyo in 2005, and afterwards he worked at Kyoto University for 14 years, first as an Assistant and later as an Associate Professor. His research interests lie in the intersection of natural language processing, information retrieval and artificial intelligence. Adam is on the editorial board of IP&M, JASIST, IJDL, and JIIS journals, as well as serves as a Senior PC member of SIGIR, WSDM, CIKM, ECIR, SIGIR-AP and JCDL conferences. He is a recipient of the Friedrich Wilhelm Bessel Research Award by the Humboldt Society and the Karlsruhe Institute of Technology’s (KIT) International Excellence Fellowship.
         </Details> </li>
         
-<li>14h50 Riwal Lefort - Artificial Intelligence in bancassurance
+<li>14h50 Riwal Lefort, Crédit Mutuel Arkéa - Artificial Intelligence in bancassurance
         <Details style="margin-left:50px"><summary> Details </summary>
                 <b>Abstract:</b> <br> In this presentation, we address the subject of Artificial Intelligence (AI) in bancassurance.
 After giving a vision of AI and a few general definitions, we present a large number of use cases specific to the bancassurance sector.
