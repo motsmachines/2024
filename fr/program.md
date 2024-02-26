@@ -12,7 +12,7 @@
 <ul>
 <li>8h45 Accueil</li>
 <li>9h00 Ouverture</li>
-<li>9h10 Juliette Le Berrigot, étudiante master Rédaction/Traduction UBO</li>
+<li>9h10 Juliette Le Berrigot, <i>Etudiante master Rédaction/Traduction UBO</i></li>
 <li>9h30 Jaap Kamps, <i>faculty of humanities of University of Amsterdam</i> - <b>Le Rôle de l’IA et de la Créativité dans la Recherche Scientifique</b>
         <details style="margin-left:50px"><summary> détails </summary>
                 <b>Résumé:</b> <br> La créativité et la création sont généralement considérées comme l’opposé de la rigueur scientifique. Le contexte de la justification scientifique se caractérise par des règles très strictes, guidées par une logique formelle et une méthodologie rigoureuse. Le contexte de la découverte est cependant beaucoup plus libre : selon l'éminent philosophe Karl Popper, il est préférable de le laisser à la psychologie. Alors que la logique dominait l’Intelligence Artificielle (IA) classique, les progrès révolutionnaires récents concernent les modèles d’IA qui excellent dans la génération, la création et la créativité. Quels sont les rôles de ces modèles d’IA dans la recherche scientifique ? Quelle force et quels enjeux ont ces modèles dans ce contexte, connus pour « halluciner » et présenter des biais de confirmation ? Alors que les modèles antérieurs se concentraient sur le contexte de la justification scientifique, ces modèles peuvent-ils jouer un rôle dans le contexte de la découverte scientifique ? Et comment cela change-t-il la répartition des rôles et des tâches entre le chercheur humain et l’assistant de modèles d’IA ?
