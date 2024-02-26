@@ -1,5 +1,5 @@
 # Mots/Machines #6 
-## Science, AI, Créativité et création
+## Science, AI, Créativité et Création
 
 <br>
 
