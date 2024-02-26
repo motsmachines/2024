@@ -46,7 +46,7 @@ Finally, I take look at a few examples of interactive and commercial application
                 Adam Jatowt is a Full Professor at the Department of Computer Science of the University of Innsbruck, Austria. He also serves as a Deputy Head of the Digital Science Center and Deputy Head of the Research Center Digital Humanities at the University of Innsbruck. Adam received his Ph.D. degree in Information Science & Technology from the University of Tokyo in 2005, and afterwards he worked at Kyoto University for 14 years, first as an Assistant and later as an Associate Professor. His research interests lie in the intersection of natural language processing, information retrieval and artificial intelligence. Adam is on the editorial board of IP&M, JASIST, IJDL, and JIIS journals, as well as serves as a Senior PC member of SIGIR, WSDM, CIKM, ECIR, SIGIR-AP and JCDL conferences. He is a recipient of the Friedrich Wilhelm Bessel Research Award by the Humboldt Society and the Karlsruhe Institute of Technology’s (KIT) International Excellence Fellowship.
         </Details> </li>
         
-<li>14h50 Riwal Lefort, <i>Crédit Mutuel Arkéa<i> - <b>Artificial Intelligence in bancassurance</b>
+<li>14h50 Riwal Lefort, <i>Crédit Mutuel Arkéa</i> - <b>Artificial Intelligence in bancassurance</b>
         <Details style="margin-left:50px"><summary> Details </summary>
                 <b>Abstract:</b> <br> In this presentation, we address the subject of Artificial Intelligence (AI) in bancassurance.
 After giving a vision of AI and a few general definitions, we present a large number of use cases specific to the bancassurance sector.
