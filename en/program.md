@@ -14,7 +14,7 @@
 <li>8h45 Reception</li>
 <li>9h00 Opening</li>
 <li>9h10 Juliette Le Berrigot, Master student writing/translation UBO</li>
-<li>9h30 Jaap Kamps, faculty of humanities of University of Amsterdam - The Role of AI and Creativity in Scientific Inquiry   
+<li>9h30 Jaap Kamps, faculty of humanities of University of Amsterdam - <b>The Role of AI and Creativity in Scientific Inquiry</b>   
         <Details style="margin-left:50px"><summary> Details </summary>
                 <b>Résumé:</b> <br> Creativity and creation are mostly viewed as the opposite of scientific rigor in science.   The context of scientific justification is characterized by very strict rules, guided by formal logic and rigorous methodology.  The context of discovery, however, has far more freedom: it is even best left to psychology according to eminent philosopher Karl Popper.  Whereas logic dominated classical Artificial Intelligence (AI), recent revolutionary progress is with AI models that excel at generation, creation, and creativity.   What is the roles of these AI models in scientific inquiry?   What strength and what issues do these models have in this context, as they are known to “hallucinate” and exhibit confirmation bias?   Whereas earlier models focused on the context of scientific justification, can these models play a role in the context of scientific discovery?   And how does this change the role and task division between the human researcher and the AI models assistant?
                 <br><br><b>Biographie :</b><br>
@@ -24,7 +24,7 @@ He has published over 450 papers in all major conferences and journals, which ca
 </Details> </li>
 <li>10h20 Coffee Break</li>
 <li>10h50 Christophe Servan - Considerations after the impact of Large Language Models and the arrival of Large Agent Models: towards a revival of multi-agent systems in AI?</li>
-<li>11h40 Helen McCombie, University Translation Bureau - My digital songwriting partner      
+<li>11h40 Helen McCombie, <i>University Translation Bureau</i> - My digital songwriting partner      
         <Details style="margin-left:50px"><summary> Details </summary>
                 <b>Abstract:</b> <br> I explore some ways digital tools can create, assist and inspire song lyric writing by presenting some examples of language treatment tools specific to this activity and some experiments using generically-trained LLMs.
 
