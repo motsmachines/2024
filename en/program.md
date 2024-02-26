@@ -13,7 +13,7 @@
 <ul>
 <li>8h45 Reception</li>
 <li>9h00 Opening</li>
-<li>9h10 Juliette Le Berrigot, Master student writing/translation UBO</li>
+<li>9h10 Juliette Le Berrigot, <i>Master student writing/translation UBO</i></li>
 <li>9h30 Jaap Kamps, <i>faculty of humanities of University of Amsterdam</i> - <b>The Role of AI and Creativity in Scientific Inquiry</b>   
         <Details style="margin-left:50px"><summary> Details </summary>
                 <b>Résumé:</b> <br> Creativity and creation are mostly viewed as the opposite of scientific rigor in science.   The context of scientific justification is characterized by very strict rules, guided by formal logic and rigorous methodology.  The context of discovery, however, has far more freedom: it is even best left to psychology according to eminent philosopher Karl Popper.  Whereas logic dominated classical Artificial Intelligence (AI), recent revolutionary progress is with AI models that excel at generation, creation, and creativity.   What is the roles of these AI models in scientific inquiry?   What strength and what issues do these models have in this context, as they are known to “hallucinate” and exhibit confirmation bias?   Whereas earlier models focused on the context of scientific justification, can these models play a role in the context of scientific discovery?   And how does this change the role and task division between the human researcher and the AI models assistant?
