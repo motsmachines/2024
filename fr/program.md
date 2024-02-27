@@ -12,7 +12,13 @@
 <ul>
 <li>8h45 Accueil</li>
 <li>9h00 Ouverture</li>
-<li>9h10 Juliette Le Berrigot, <em>Etudiante master Rédaction/Traduction UBO</em></li>
+<li>9h10 Juliette Le Berrigot, <em>Etudiante master Rédaction/Traduction UBO</em> <strong>La traduction des noms Pokémon par l'IA</strong>
+        <Details style="margin-left:50px"><summary> Details </summary>
+                <strong>Résumé:</strong> <br>
+         Je présenterai le résultat de mes recherches (des noms anglais de Pokémon fanmade traduits par DeepL et par ChatGPT en français)
+                <br><br><strong>Biographie :</strong><br>
+        Je suis étudiante en M2 Rédaction/Traduction à l'UBO de Brest.
+</Details> </li>
 <li>9h30 Jaap Kamps, <em>faculty of humanities of University of Amsterdam</em> - <strong>Le Rôle de l’IA et de la Créativité dans la Recherche Scientifique</strong>
         <details style="margin-left:50px"><summary> détails </summary>
                 <strong>Résumé:</strong> <br> La créativité et la création sont généralement considérées comme l’opposé de la rigueur scientifique. Le contexte de la justification scientifique se caractérise par des règles très strictes, guidées par une logique formelle et une méthodologie rigoureuse. Le contexte de la découverte est cependant beaucoup plus libre : selon l'éminent philosophe Karl Popper, il est préférable de le laisser à la psychologie. Alors que la logique dominait l’Intelligence Artificielle (IA) classique, les progrès révolutionnaires récents concernent les modèles d’IA qui excellent dans la génération, la création et la créativité. Quels sont les rôles de ces modèles d’IA dans la recherche scientifique ? Quelle force et quels enjeux ont ces modèles dans ce contexte, connus pour « halluciner » et présenter des biais de confirmation ? Alors que les modèles antérieurs se concentraient sur le contexte de la justification scientifique, ces modèles peuvent-ils jouer un rôle dans le contexte de la découverte scientifique ? Et comment cela change-t-il la répartition des rôles et des tâches entre le chercheur humain et l’assistant de modèles d’IA ?
