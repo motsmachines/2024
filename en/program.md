@@ -16,7 +16,7 @@
 <li>9h10 Juliette Le Berrigot, <em>Master student writing/translation UBO</em>, <strong>AI translation of Pokémon names</strong><Details style="margin-left:50px"><summary> Details </summary>
                 <strong>Résumé:</strong> <br>
          I'll be presenting the results of my research (English Pokémon fanmade names translated by DeepL and by ChatGPT in French).
-                <br><br><strong>Biographie :</strong><br
+                <br><br><strong>Biographie :</strong><br>
         I'm a student in M2 Writing/Translation at the UBO in Brest.
 </Details> </li>
 <li>9h30 Jaap Kamps, <em>faculty of humanities of University of Amsterdam</em> - <strong>The Role of AI and Creativity in Scientific Inquiry</strong>   
