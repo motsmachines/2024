@@ -13,7 +13,12 @@
 <ul>
 <li>8h45 Reception</li>
 <li>9h00 Opening</li>
-<li>9h10 Juliette Le Berrigot, <em>Master student writing/translation UBO</em></li>
+<li>9h10 Juliette Le Berrigot, <em>Master student writing/translation UBO</em>, <strong>AI translation of Pokémon names</strong><Details style="margin-left:50px"><summary> Details </summary>
+                <strong>Résumé:</strong> <br>
+         I'll be presenting the results of my research (English Pokémon fanmade names translated by DeepL and by ChatGPT in French).
+                <br><br><strong>Biographie :</strong><br
+        I'm a student in M2 Writing/Translation at the UBO in Brest.
+</Details> </li>
 <li>9h30 Jaap Kamps, <em>faculty of humanities of University of Amsterdam</em> - <strong>The Role of AI and Creativity in Scientific Inquiry</strong>   
         <Details style="margin-left:50px"><summary> Details </summary>
                 <strong>Résumé:</strong> <br> Creativity and creation are mostly viewed as the opposite of scientific rigor in science.   The context of scientific justification is characterized by very strict rules, guided by formal logic and rigorous methodology.  The context of discovery, however, has far more freedom: it is even best left to psychology according to eminent philosopher Karl Popper.  Whereas logic dominated classical Artificial Intelligence (AI), recent revolutionary progress is with AI models that excel at generation, creation, and creativity.   What is the roles of these AI models in scientific inquiry?   What strength and what issues do these models have in this context, as they are known to “hallucinate” and exhibit confirmation bias?   Whereas earlier models focused on the context of scientific justification, can these models play a role in the context of scientific discovery?   And how does this change the role and task division between the human researcher and the AI models assistant?
