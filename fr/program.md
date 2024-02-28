@@ -24,20 +24,24 @@
                 <strong>Résumé:</strong> <br> La créativité et la création sont généralement considérées comme l’opposé de la rigueur scientifique. Le contexte de la justification scientifique se caractérise par des règles très strictes, guidées par une logique formelle et une méthodologie rigoureuse. Le contexte de la découverte est cependant beaucoup plus libre : selon l'éminent philosophe Karl Popper, il est préférable de le laisser à la psychologie. Alors que la logique dominait l’Intelligence Artificielle (IA) classique, les progrès révolutionnaires récents concernent les modèles d’IA qui excellent dans la génération, la création et la créativité. Quels sont les rôles de ces modèles d’IA dans la recherche scientifique ? Quelle force et quels enjeux ont ces modèles dans ce contexte, connus pour « halluciner » et présenter des biais de confirmation ? Alors que les modèles antérieurs se concentraient sur le contexte de la justification scientifique, ces modèles peuvent-ils jouer un rôle dans le contexte de la découverte scientifique ? Et comment cela change-t-il la répartition des rôles et des tâches entre le chercheur humain et l’assistant de modèles d’IA ?
                 <br><br><strong>Biographie :</strong><br>
 Dr. Kamps a obtenu un doctorat en intelligence artificielle « logique » à l’Université d’Amsterdam. Il est co-fondateur du groupe Recherche d'Information, (RI) de l’Université d’Amsterdam et de son groupe Traitement du Langage Naturel (TALN). Il a travaillé sur un large éventail de sujets allant de l'RI centrée sur l'utilisateur à celle centrée sur le système, y compris des travaux pionniers sur la récupération structurée de documents et sur le classement neuronal. Il a travaillé dans de nombreux domaines de la TALN, notamment des travaux pionniers sur l'analyse des sentiments, ainsi que sur la modélisation du langage et la génération de texte. Les intérêts actuels portent sur « l'IA pour le bien social » en travaillant sur de nouveaux outils d'accès au patrimoine culturel et aux données politiques, et en développant des modèles neuronaux explicables et interprétables pour la recherche et la recommandation, ainsi que des moyens d'ouvrir les articles scientifiques et les informations gouvernementales aux profanes et aux citoyens. , et les journalistes.
-
-Il a publié plus de 450 articles dans toutes les grandes conférences et revues, consultables sur http://e.humanities.uva.nl/ ; https://scholar.google.com/citations?user=bWlQ2uEAAAAJ ; http://dl.acm.org/author_page.cfm?id=81100034443 ; ou d'autres référentiels.
+<br>
+Il a publié plus de 450 articles dans toutes les grandes conférences et revues, consultables sur 
+<br> http://e.humanities.uva.nl/ ;
+<br> https://scholar.google.com/citations?user=bWlQ2uEAAAAJ ;
+<br> http://dl.acm.org/author_page.cfm?id=81100034443 ; ou d'autres référentiels.
 </details> </li>
 <li>10h20 pause-café</li>
 <li>10h50 Christophe Servan - <strong>Reflexions après l'impact des Large Language Models et l'arrivée des Large Agent Model : vers un renouveau des systèmes multi-agents en IA ?</strong></li>
 <li>11h40 Helen McCombie, <em>Bureau de Traduction de l’Université</em>  - <strong>Mon partenaire virtuel pour l'écriture de chansons</strong>
         <details style="margin-left:50px"><summary> détails </summary>
                 <strong>Résumé:</strong> <br> J'explore certaines façons dont les outils numériques peuvent créer, assister et inspirer l'écriture de paroles de chansons en présentant quelques exemples d'outils de traitement du langage spécifiques à cette activité et quelques expériences utilisant des LLMs formés de façon générique.
-
-De nombreux styles de chansons imposent des contraintes au texte lyrique nécessaire, notamment en termes de choix des mots, y compris la sélection de rimes adaptées au contexte du sujet, et le respect des schémas d'accentuation dictés par la musique ou les lignes de texte existantes. 
+<br>
+De nombreux styles de chansons imposent des contraintes au texte lyrique nécessaire, notamment en termes de choix des mots, y compris la sélection de rimes adaptées au contexte du sujet, et le respect des schémas d'accentuation dictés par la musique ou les lignes de texte existantes.
+<br>
 Bien que les outils numériques puissent contribuer à ces aspects, la rédaction en gros d'ensembles complets de paroles par des outils basés sur le LLM crée un paradoxe. La nature générique des réponses tend à produire des paroles dépourvues des spécificités qui, autrement, ajouteraient de la relativité, de la plausibilité et de la mémorabilité. En utilisant Chat GPT, j'ai testé des requêtes qui pourraient canaliser les résultats de LLM vers quelque chose de moins générique.
-
+<br>
 Les auteurs-compositeurs accueillent les outils d'IA avec un enthousiasme variable. Je fais un tour d'horizon des impressions recueillies au sein d'une communauté d'auteurs-compositeurs en ligne. 
-
+<br>
 Enfin, j'examine quelques exemples d'applications interactives et commerciales.
                 <br><br><strong>Biographie :</strong><br>
 Helen McCombie works at the university translation bureau where she specialises in scientific text revision.  She is also an amateur musician.
