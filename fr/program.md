@@ -70,6 +70,25 @@ Après 10 ans de recherche académique en Machine Learning pour la vision par or
                 <strong>Abstract:</strong> <br> Les traductions assistées par ordinateur ayant pour objectif principal de transmettre le sens plutôt que le son, la traduction de textes comportant des jeux de mots constitue un véritable défi. La difficulté est d'autant plus grande lorsque les jeux de mots s'appuient sur d'autres modes, comme l'image dans le cas du sous-titrage. Comme l'a montré Adrián Fuentes-Luque dans le cas des films des Marx Brothers, par exemple, l'humour repose sur la simultanéité de l'image avec le jeu de mots traduit. Ces obstacles seront examinés dans le cadre de l'étude de cas du court métrage d'animation en stop-motion Grocery Store Wars. Le film utilise la connaissance qu'a le public de la célèbre saga Star Wars, en particulier l'opposition entre un côté lumineux et un côté obscur, pour dénoncer l'utilisation d'organismes génétiquement modifiés et promouvoir la consommation d'aliments biologiques. Les traductions automatiques effectuées par DeepL et ChatGPT seront comparées aux traductions humaines effectuées par des étudiants et par le présentateur lui-même. Cette comparaison servira non seulement à démontrer les limites de la traduction automatique, mais aussi à suggérer des développements futurs.
                 <br><br><strong>Bio :</strong><br> Jean-Charles Meunier enseigne la langue anglaise et la culture anglophone, ainsi que la traduction et la traductologie, à l’Université Polytechnique Hauts-de-France à Valenciennes. Il a publié plusieurs articles sur la traduction de chanson, plus spécifiquement sur les chansons de Bob Dylan traduites en français. Sa thèse de doctorat, Multimodal Refractions of Bob Dylan in French Covers (Les Réfractions multimodales de Bob Dylan dans les reprises chantées en français), explore les traductions françaises des chansons de Bob Dylan, de 1964 à 2023, par le prisme de la multimodalité. Il s’agit de prendre en compte non seulement le texte mais aussi la voix, la musique et le travail fait en studio, afin de comprendre comment ces différentes ressources sémiotiques convergent pour créer du sens. L’étude, souvent comparative, des traductions permet d’observer la perméabilité entre ces différentes modes dans le processus de traduction, tout en prenant en compte le contexte de création de l’œuvre source et celui de l’œuvre cible.
 </details> </li>
-<li>17h00 Michel Delarche (online)</li>
+<li>17h00 Michel Delarche (online), <strong>Traduction automatique de la poésie</strong></li>
+        <details style="margin-left:50px"><summary> Détails </summary>
+                <strong>Abstract:</strong> <br> Cette présentation traite des limitations actuelles des systèmes de traduction automatique statistique pour traiter la poésie, et en particulier les contraintes de la versification.<br>
+Une comparaison est menée sur un petit exemple (un quatrain de Shakespeare) avec les productions des traducteurs humains montre que les systèmes automatiques actuels souffrent d'un double handicap: leur capacité limitée de prise en compte du contexte et l'inadaptation de leurs bases de données statistiques au traitement du langage poétique.
+On évoque ensuite les recherches développées depuis une quinzaine d'années pour améliorer les performances de ces systèmes vis-à-vis de la multiplicité des contraintes à satisfaire puis l'on propose trois voies de flexibilisation locale de l'exploration combinatoire en se fondant sur l'analyse des stratégies employées par les traducteurs humains.
+En conclusion, une méthode d'enrichissement ciblé des corpus d'entraînement est proposée.
+                <br><br><strong>Bio :</strong><br> Michel Delarche né en 1955
+Ingénieur ENSIMAG (1977)<br>
+Docteur-ingénieur en mathématiques appliquées et informatique (1979)<br>
+28 ans de carrière comme ingénieur et consultant dans divers secteurs (1980-2007)<br>
+(ingénierie civile, imagerie médicale, défense, télécoms, systèmes de gestion du trafic aérien)<br>
+Reconversion vers l'enseignement et la linguistique (2007-2009)<br>
+CAPES et bi-admissibilité à l'agrégation d'anglais option linguistique.<br>
+8 ans de carrière comme enseignant d'anglais de spécialité à l'université Paris-Diderot (2009-2017)<br>
+Retraité depuis 2017.<br>
+Centres d'intérêt personnels en matière d'activités créatives:<br>
+écriture (fiction littéraire, essais traductologiques)<br>
+traduction de poésie (depuis l'anglais, l'espagnol, l'italien et le russe vers le français)<br>
+jeu d'échecs
+</details> </li>
 <li>17h30 Victor (online)17h50 Clôture</li>
 </ul>
