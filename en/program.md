@@ -69,6 +69,25 @@ After 10 years of academic research in Machine Learning for computer vision, bio
                 <strong>Abstract:</strong> <br> As the focus of AI translation is primarily to transfer the sense rather than the sound, the translation of texts that include plays on language is a real challenge. This is made all the more difficult when puns rely on other modes, such as images in the case of subtitling. As Adrián Fuentes-Luque has shown in the case of films by the Marx Brothers, for example, the humour rests on the simultaneity of the image with the translated pun. These obstacles shall be explored through the case study of the short stop-motion animation Grocery Store Wars. The film uses the public’s knowledge of the famous Star Wars saga, in particular the opposition between a bright and a dark side, to denounce the use of genetically modified organisms and to promote the consumption of organic food. Machine translations by DeepL and ChatGPT shall be compared with human translations by students and by the presenter himself. This comparison shall be used not only to demonstrate the limits of machine translation, but also to suggest future developments.
                 <br><br><strong>Bio :</strong><br> Jean-Charles Meunier teaches English language and culture, as well as translation studies, at the Université Polytechnique Hauts-de-France in Valenciennes. He has published several in-depth articles about Bob Dylan’s songs and has given talks on the topic at international conferences. His PhD thesis, entitled Multimodal Refractions of Bob Dylan in French Covers, explores Dylan's songs translated and performed in French over a time span of more than 50 years. In this study, he addresses issues related to metrics and musical adaptation, taking into account Dylan’s idiosyncrasies. He approaches the topic of song translation through the lens of multimodality, i.e. investigating the relationships between text, voice, music and sound and how these converge to create meaning. Great attention is also paid to historical and cultural contexts, in particular to the way culture specific references are transferred within or between modes.
 </Details> </li>
-<li>17h00 Michel Delarche (online)</li>
+<li>17h00 Michel Delarche (online)
+        <Details style="margin-left:50px"><summary> Details </summary>
+                <strong>Abstract:</strong> <br>This presentation deals with the current limitations of statistical machine translation systems for dealing with poetry, and in particular with the constraints of versification.<br>
+A comparison of a small example (a Shakespeare quatrain) with the output of human translators shows that current machine translation systems suffer from a double handicap: their limited ability to take context into account, and the unsuitability of their statistical databases for processing poetic language.
+Research carried out over the past fifteen years to improve the performance of these systems in the face of the multiplicity of constraints to be satisfied is then reviewed, and three ways of making combinatorial exploration more locally flexible are proposed, based on an analysis of the strategies employed by human translators.
+In conclusion, a method for targeted enrichment of training corpora is proposed.
+                <br><br><strong>Bio :</strong><br>
+Michel Delarche born 1955<br>
+ENSIMAG engineer (1977)<br>
+Doctorate in applied mathematics and computer science (1979)<br>
+28-year career as an engineer and consultant in various sectors (1980-2007) (civil engineering, medical imaging, defense, telecoms, air traffic management systems)<br>
+Reconversion to teaching and linguistics (2007-2009)<br>
+CAPES and bi-admissibility for the agrégation d'anglais, linguistics option.<br>
+8-year career as a specialist English teacher at the University Paris-Diderot University (2009-2017)<br>
+Retired since 2017.<br>
+Personal interests in creative activities:<br>
+writing (literaryliterary fiction, translation essays)<br>
+poetry translation (from English, Spanish, Italian and Russian into French)<br>
+chess
+</Details> </li>
 <li>17h30 Victor (online)17h50 Closing</li>
 </ul>
