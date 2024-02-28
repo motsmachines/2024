@@ -26,9 +26,9 @@
 Dr. Kamps a obtenu un doctorat en intelligence artificielle « logique » à l’Université d’Amsterdam. Il est co-fondateur du groupe Recherche d'Information, (RI) de l’Université d’Amsterdam et de son groupe Traitement du Langage Naturel (TALN). Il a travaillé sur un large éventail de sujets allant de l'RI centrée sur l'utilisateur à celle centrée sur le système, y compris des travaux pionniers sur la récupération structurée de documents et sur le classement neuronal. Il a travaillé dans de nombreux domaines de la TALN, notamment des travaux pionniers sur l'analyse des sentiments, ainsi que sur la modélisation du langage et la génération de texte. Les intérêts actuels portent sur « l'IA pour le bien social » en travaillant sur de nouveaux outils d'accès au patrimoine culturel et aux données politiques, et en développant des modèles neuronaux explicables et interprétables pour la recherche et la recommandation, ainsi que des moyens d'ouvrir les articles scientifiques et les informations gouvernementales aux profanes et aux citoyens. , et les journalistes.
 <br>
 Il a publié plus de 450 articles dans toutes les grandes conférences et revues, consultables sur 
-<br> http://e.humanities.uva.nl/ ;
-<br> https://scholar.google.com/citations?user=bWlQ2uEAAAAJ ;
-<br> http://dl.acm.org/author_page.cfm?id=81100034443 ; ou d'autres référentiels.
+<br> <a href="http://e.humanities.uva.nl/"> http://e.humanities.uva.nl/</a> ;
+<br> <a href="https://scholar.google.com/citations?user=bWlQ2uEAAAAJ"> https://scholar.google.com/citations?user=bWlQ2uEAAAAJ</a> ;
+<br> <a href="http://dl.acm.org/author_page.cfm?id=81100034443"> http://dl.acm.org/author_page.cfm?id=81100034443 </a> ; ou d'autres référentiels.
 </details> </li>
 <li>10h20 pause-café</li>
 <li>10h50 Christophe Servan - <strong>Reflexions après l'impact des Large Language Models et l'arrivée des Large Agent Model : vers un renouveau des systèmes multi-agents en IA ?</strong></li>
