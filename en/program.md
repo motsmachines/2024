@@ -89,5 +89,5 @@ writing (literaryliterary fiction, translation essays)<br>
 poetry translation (from English, Spanish, Italian and Russian into French)<br>
 chess
 </Details> </li>
-<li>17h30 Victor (online)17h50 Closing</li>
+<li>17h30 Closing</li>
 </ul>
