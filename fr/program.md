@@ -90,5 +90,5 @@ Centres d'intérêt personnels en matière d'activités créatives:<br>
 traduction de poésie (depuis l'anglais, l'espagnol, l'italien et le russe vers le français)<br>
 jeu d'échecs
 </details> </li>
-<li>17h30 Victor (online)17h50 Clôture</li>
+<li>17h30 Clôture</li>
 </ul>
