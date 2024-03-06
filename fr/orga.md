@@ -18,6 +18,7 @@
 ### Comité d'organisation
 - Liana Ermakova, HCTI, UBO
 - Benjamin Vendeville, HCTI, UBO
+- Audrey Morvan, CRBC, UBO
 - Caroline Comacle, traductrice, UBO
 - Radia Hannachi, HCTI, UBS
 - Mohamed Saki, HCTI, UBO
