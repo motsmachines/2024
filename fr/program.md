@@ -36,7 +36,7 @@ Il a publié plus de 450 articles dans toutes les grandes conférences et revues
 <li>10h50 Christophe Servan - <strong>Reflexions après l'impact des Large Language Models et l'arrivée des Large Agent Model : vers un renouveau des systèmes multi-agents en IA ?</strong></li>
 </strong><a href="https://github.com/motsmachines/2024/blob/main/slides/slides%20Servan.pdf">Présentation</a>
 <li>11h40 Helen McCombie, <em>Bureau de Traduction de l’Université</em>  - <strong>Mon partenaire virtuel pour l'écriture de chansons</strong>
-</strong><a href="https://github.com/motsmachines/2024/blob/main/slides/slides%20McCombie.pptx">Présentation</a>
+<a href="https://github.com/motsmachines/2024/blob/main/slides/slides%20McCombie.pptx">Présentation</a>
         <details style="margin-left:50px"><summary> détails </summary>
                 <strong>Résumé:</strong> <br> J'explore certaines façons dont les outils numériques peuvent créer, assister et inspirer l'écriture de paroles de chansons en présentant quelques exemples d'outils de traitement du langage spécifiques à cette activité et quelques expériences utilisant des LLMs formés de façon générique.
 <br>
@@ -54,7 +54,7 @@ Helen McCombie works at the university translation bureau where she specialises 
 
 <li>12h00 Déjeuner</li>
 <li>14h00 Adam Jatowt Estimating, <em>University of Innsbruck, Austria</em> - <strong>Temporal Validity of Text</strong>
-</strong><a href="https://github.com/motsmachines/2024/blob/main/slides/slides%20Jatowt.pdf">Présentation</a>
+<a href="https://github.com/motsmachines/2024/blob/main/slides/slides%20Jatowt.pdf">Présentation</a>
         <details style="margin-left:50px"><summary> détails </summary>
                 <strong>Résumé:</strong><br>
         Il est important de savoir si les informations sont encore valables ou non pour diverses applications en aval, notamment les systèmes de recommandation, la recherche d'informations et le suivi de l'état de l'utilisateur sur les microblogs et via les conversations des chatbots. Il est également utile de comprendre en profondeur l'histoire en suivant les informations implicites sur la durée des activités des protagonistes et des événements impliqués. Cependant, ce type d'inférence est encore difficile pour les machines car il nécessite généralement des connaissances et des raisonnements temporels. Nous proposons et étudions une série de nouvelles tâches liées au raisonnement par le bon sens temporel, telles que l'estimation de la validité temporelle, la réévaluation de la validité temporelle et la prédiction du changement de validité temporelle d'un texte d'entrée en fonction d'un contexte de suivi. En substance, ces tâches nécessitent de déterminer si les actions exprimées dans le texte sont toujours en cours ou ont été achevées, et donc si la description de leur contenu reste valide ou est plutôt devenue obsolète, soit en raison du temps écoulé, soit en raison de l'apport d'un contexte supplémentaire. En outre, nous discutons également de plusieurs nouveaux ensembles de données que nous avons construits pour tester les LLMs et les modèles de NLP en général en ce qui concerne l'estimation de la validité temporelle et le raisonnement.
@@ -63,7 +63,7 @@ Helen McCombie works at the university translation bureau where she specialises 
         </details> </li>
         
 <li>14h50 Riwal Lefort, <em>Crédit Mutuel Arkéa</em> - <strong>L'Intelligence Artificielle dans le domaine bancassurance</strong>
-</strong><a href="https://github.com/motsmachines/2024/blob/main/slides/slides%20Lefort.pdf">Présentation</a>
+<a href="https://github.com/motsmachines/2024/blob/main/slides/slides%20Lefort.pdf">Présentation</a>
         <details style="margin-left:50px"><summary> détails </summary>
                 <strong>Résumé:</strong> <br> Du traitement d'image au traitement des données textuelles, en passant par l'analyse des libellés de transactions bancaires, nous présenterons un grand nombre de cas d'usage de la bancassurance. Nous présenterons les spécificités et le déroulé d'un projet d'IA dans ce domaine très contraint par la réglementation. Nous évoquerons également comment se passe l'adoption des IA génératives.
                 <br><br><strong>Biographie :</strong><br>
@@ -77,7 +77,7 @@ Après 10 ans de recherche académique en Machine Learning pour la vision par or
                 <br><br><strong>Bio :</strong><br> Jean-Charles Meunier enseigne la langue anglaise et la culture anglophone, ainsi que la traduction et la traductologie, à l’Université Polytechnique Hauts-de-France à Valenciennes. Il a publié plusieurs articles sur la traduction de chanson, plus spécifiquement sur les chansons de Bob Dylan traduites en français. Sa thèse de doctorat, Multimodal Refractions of Bob Dylan in French Covers (Les Réfractions multimodales de Bob Dylan dans les reprises chantées en français), explore les traductions françaises des chansons de Bob Dylan, de 1964 à 2023, par le prisme de la multimodalité. Il s’agit de prendre en compte non seulement le texte mais aussi la voix, la musique et le travail fait en studio, afin de comprendre comment ces différentes ressources sémiotiques convergent pour créer du sens. L’étude, souvent comparative, des traductions permet d’observer la perméabilité entre ces différentes modes dans le processus de traduction, tout en prenant en compte le contexte de création de l’œuvre source et celui de l’œuvre cible.
 </details> </li>
 <li>17h00 Michel Delarche (online), <strong>Traduction automatique de la poésie</strong>
-</strong><a href="https://github.com/motsmachines/2024/blob/main/slides/slides%20Delarche.odp">Présentation</a>
+<a href="https://github.com/motsmachines/2024/blob/main/slides/slides%20Delarche.odp">Présentation</a>
         <details style="margin-left:50px"><summary> Détails </summary>
                 <strong>Résumé:</strong> <br> Cette présentation traite des limitations actuelles des systèmes de traduction automatique statistique pour traiter la poésie, et en particulier les contraintes de la versification.<br>
 Une comparaison est menée sur un petit exemple (un quatrain de Shakespeare) avec les productions des traducteurs humains montre que les systèmes automatiques actuels souffrent d'un double handicap: leur capacité limitée de prise en compte du contexte et l'inadaptation de leurs bases de données statistiques au traitement du langage poétique.
