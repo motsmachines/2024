@@ -34,7 +34,7 @@ Il a publié plus de 450 articles dans toutes les grandes conférences et revues
 </details> </li>
 <li>10h20 Pause-café</li>
 <li>10h50 Christophe Servan - <strong>Reflexions après l'impact des Large Language Models et l'arrivée des Large Agent Model : vers un renouveau des systèmes multi-agents en IA ?</strong></li>
-</strong><a href="https://github.com/motsmachines/2024/blob/main/slides/slides%20Servan.pdf">Présentation</a>
+<a href="https://github.com/motsmachines/2024/blob/main/slides/slides%20Servan.pdf">Présentation</a>
 <li>11h40 Helen McCombie, <em>Bureau de Traduction de l’Université</em>  - <strong>Mon partenaire virtuel pour l'écriture de chansons</strong>
 <a href="https://github.com/motsmachines/2024/blob/main/slides/slides%20McCombie.pptx">Présentation</a>
         <details style="margin-left:50px"><summary> détails </summary>
