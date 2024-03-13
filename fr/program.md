@@ -12,7 +12,7 @@
 <ul>
 <li>8h45 Accueil</li>
 <li>9h00 Ouverture</li>
-<li>9h10 Juliette Le Berrigot, <em>Etudiante master Rédaction/Traduction UBO</em> <strong>La traduction des noms Pokémon par l'IA</strong> [slides](./slides/slides Berrigot.pptx)
+<li>9h10 Juliette Le Berrigot, <em>Etudiante master Rédaction/Traduction UBO</em> <strong>La traduction des noms Pokémon par l'IA</strong> [slides](/slides/slides Berrigot.pptx)
         <Details style="margin-left:50px"><summary> Details </summary>
                 <strong>Résumé:</strong> <br>
          Je présenterai le résultat de mes recherches (des noms anglais de Pokémon fanmade traduits par DeepL et par ChatGPT en français)
